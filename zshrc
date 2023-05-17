@@ -32,5 +32,3 @@ plugins=(
 # zstyle ':omz:update' frequency 13
 
 source $ZSH/oh-my-zsh.sh
-
-source <(lguctl completion zsh)
